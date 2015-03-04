@@ -1,4 +1,4 @@
-# Practical 4
+# Practical 5
 Machine Learning, spring 2015
 
 In this practical, we write and test our own layer.
