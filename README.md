@@ -16,5 +16,5 @@ See the writeup PDF for instructions. There is only *one* handin item.
 
 
 # See course page for practicals
-<https://www.cs.ox.ac.uk/teaching/materials14-15/ml/>
+<https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/>
 
